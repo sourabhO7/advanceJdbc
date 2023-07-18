@@ -1,6 +1,7 @@
 package clobDataOperation;
 
-import java.io.*;
+import com.mysql.cj.jdbc.MysqlConnectionPoolDataSource;
+
 import java.sql.*;
 
 public class DeleteClobOperation {
